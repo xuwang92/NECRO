@@ -1,7 +1,7 @@
 # NECRO
 This code is used for simulate the transformation of necromass C and N
 
-NECRO_1, NECRO_2, NECRO_3, NECRO_4, NECRO_5, NECRO_6 Code
+Necro_Kaolinite, Necro_Illite, Necro_Montmorillonite, Necro_ Kaolinite Goethite, Necro_Kaolinite Gibbsite, Necro_Kaolinite Birnessite Code
 
 Xu Wang, Chao Wang
 
